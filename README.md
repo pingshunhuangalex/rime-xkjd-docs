@@ -1,2 +1,3 @@
-# rime-xkjd-docs
-大道三千，键道为一。浩瀚星辰，无所畏惧！
+# Rime键道输入法
+
+这个仓库包含了我自制的[Rime键道输入法文档](https://pingshunhuangalex.gitbook.io/rime-xkjd/)。
