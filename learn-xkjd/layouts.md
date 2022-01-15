@@ -10,7 +10,7 @@ description: 不同键盘布局下的键道键位
 
 ## 标准图谱
 
-![QWERTY](../.gitbook/assets/xkjd-qwerty.png)
+![QWERTY](<../.gitbook/assets/XKJD QWERTY.png>)
 
 ## 键位组成
 
@@ -24,4 +24,4 @@ description: 不同键盘布局下的键道键位
 
 ## 乱序图谱
 
-![Colemak-DH Matrix](../.gitbook/assets/xkjd-colemak-dh-matrix.png)
+![Colemak-DH Matrix](<../.gitbook/assets/XKJD Colemak-DH Matrix.png>)
