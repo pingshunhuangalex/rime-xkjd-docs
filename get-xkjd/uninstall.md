@@ -17,10 +17,11 @@ description: 彻底移除键道及所有配置
 
 {% tab title="macOS" %}
 1. 用户可前往`苹果图标 → 系统偏好设置 → 键盘 → 输入法 → 移除（-）按钮`来删除`鼠须管（Squirrel）`
-2. 移除输入法后可通过删除`Macintosh HD/Library/Input Methods/Squirrel.app`来卸载Rime
-3. 用户可前往之前下载的键道仓库文件夹目录来移除输入法安装工具
-4. 用户可通过删除`Macintosh HD/Users/%USERNAME%/Library/Rime`来彻底移除配置文件
-5. 如仍不放心，用户可使用诸如`App Cleaner`类的工具对系统进行最后的清理
+2. 在macOS的`活动监视器`中退出`鼠须管（Squirrel）`
+3. 用户可通过删除`Macintosh HD/Library/Input Methods/Squirrel.app`来卸载Rime
+4. 用户可前往之前下载的键道仓库文件夹目录来移除输入法安装工具
+5. 用户可通过删除`Macintosh HD/Users/%USERNAME%/Library/Rime`来彻底移除配置文件
+6. 如仍不放心，用户可使用诸如`App Cleaner`类的工具对系统进行最后的清理
 {% endtab %}
 
 {% tab title="Linux" %}
