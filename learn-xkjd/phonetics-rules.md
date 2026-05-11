@@ -25,15 +25,9 @@ description: 音码键位下所蕴含的规则
 
 ## 韵母合并简化
 
-现代汉语中有39个韵母，但键道图谱中却只有33个（M键与X键都有`uang`韵母）。这是因为键道对一些**“在声韵拼合中没有歧义的”**组合做了合并简化。
+现代汉语中有39个韵母，但键道图谱中却只有33个（M键与X键都有`uang`韵母）。这是因为键道对一&#x4E9B;**“在声韵拼合中没有歧义的”**&#x7EC4;合做了合并简化。
 
-| 键道图谱中的韵母 | 现代汉语中的韵母            | 合并简化逻辑                                                                                                                                           |
-| -------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `e`      | `e`、`ê`             | `ê`只在语气词`欸`中单用，声母均与`e`拼合，无冲突                                                                                                                     |
-| `i`      | `i`、`-i（前）`、`-i（后）` | `-i（前）`与`c`、`s`、`z`拼合，`-i（后）`与`ch`、`sh`、`zh`拼合，其余声母均与`i`拼合，无冲突                                                                                   |
-| `uan`    | `uan`、`üan`         | `üan`与`j`、`q`、`x`、`y`拼合，其余声母均与`uan`拼合，无冲突                                                                                                        |
-| `eng`    | `eng`、`ueng`、`ng`   | <p><code>ueng</code>只是一种<code>weng</code>的零声母音节形式，实际使用中声母均与<code>eng</code>拼合，无冲突<br><br><code>ng</code>只在语气词中使用，和与<code>eng</code>拼合的声母均无冲突</p> |
-| `un`     | `un`、`ün`           | `ün`与`j`、`q`、`x`、`y`拼合，其余声母均与`un`拼合，无冲突                                                                                                          |
+<table><thead><tr><th width="157.22486903371086">键道图谱中的韵母</th><th width="159.33436978152872">现代汉语中的韵母</th><th>合并简化逻辑</th></tr></thead><tbody><tr><td><code>e</code></td><td><code>e</code>、<code>ê</code></td><td><code>ê</code>只在语气词<code>欸</code>中单用，声母均与<code>e</code>拼合，无冲突</td></tr><tr><td><code>i</code></td><td><code>i</code>、<code>-i（前）</code>、<code>-i（后）</code></td><td><code>-i（前）</code>与<code>c</code>、<code>s</code>、<code>z</code>拼合，<code>-i（后）</code>与<code>ch</code>、<code>sh</code>、<code>zh</code>拼合，其余声母均与<code>i</code>拼合，无冲突</td></tr><tr><td><code>uan</code></td><td><code>uan</code>、<code>üan</code></td><td><code>üan</code>与<code>j</code>、<code>q</code>、<code>x</code>、<code>y</code>拼合，其余声母均与<code>uan</code>拼合，无冲突</td></tr><tr><td><code>eng</code></td><td><code>eng</code>、<code>ueng</code>、<code>ng</code></td><td><code>ueng</code>只是一种<code>weng</code>的零声母音节形式，实际使用中声母均与<code>eng</code>拼合，无冲突<br><br><code>ng</code>只在语气词中使用，和与<code>eng</code>拼合的声母均无冲突</td></tr><tr><td><code>un</code></td><td><code>un</code>、<code>ün</code></td><td><code>ün</code>与<code>j</code>、<code>q</code>、<code>x</code>、<code>y</code>拼合，其余声母均与<code>un</code>拼合，无冲突</td></tr></tbody></table>
 
 ## j、q、x、y声韵拼合
 
@@ -56,11 +50,4 @@ description: 音码键位下所蕴含的规则
 
 以上规则在理解后可起到助记作用，但规则本身过于晦涩拗口。为帮助初学者进行理解，下表对所有相关的声韵组合进行了罗列：
 
-| 声母   | 声母键位                                        | 可拼合韵母                                                |
-| ---- | ------------------------------------------- | ---------------------------------------------------- |
-| `ch` | 仅J键（外侧）                                     | `ai`、`an`、`ang`、`en`、`eng`、`u`、`un`                  |
-| `ch` | 仅W键（内侧）                                     | `a`、`i`、`ong`、`ou`、`ua`、`uai`、`uan`、`uang`、`ui`、`uo` |
-| `ch` | J键、W键（[飞键](../advance-in-xkjd/alt-code.md)） | `ao`、`e`                                             |
-| `zh` | 仅Q键（外侧）                                     | `an`、`ang`、`ei`、`en`、`eng`、`u`、`un`                  |
-| `zh` | 仅F键（内侧）                                     | `a`、`i`、`ong`、`ou`、`ua`、`uai`、`uan`、`uang`、`ui`、`uo` |
-| `zh` | Q键、F键（[飞键](../advance-in-xkjd/alt-code.md)） | `ai`、`ao`、`e`                                        |
+<table><thead><tr><th width="150">声母</th><th width="170">声母键位</th><th>可拼合韵母</th></tr></thead><tbody><tr><td><code>ch</code></td><td>仅J键（外侧）</td><td><code>ai</code>、<code>an</code>、<code>ang</code>、<code>en</code>、<code>eng</code>、<code>u</code>、<code>un</code></td></tr><tr><td><code>ch</code></td><td>仅W键（内侧）</td><td><code>a</code>、<code>i</code>、<code>ong</code>、<code>ou</code>、<code>ua</code>、<code>uai</code>、<code>uan</code>、<code>uang</code>、<code>ui</code>、<code>uo</code></td></tr><tr><td><code>ch</code></td><td>J键、W键（<a href="../advance-in-xkjd/alt-code.md">飞键</a>）</td><td><code>ao</code>、<code>e</code></td></tr><tr><td><code>zh</code></td><td>仅Q键（外侧）</td><td><code>an</code>、<code>ang</code>、<code>ei</code>、<code>en</code>、<code>eng</code>、<code>u</code>、<code>un</code></td></tr><tr><td><code>zh</code></td><td>仅F键（内侧）</td><td><code>a</code>、<code>i</code>、<code>ong</code>、<code>ou</code>、<code>ua</code>、<code>uai</code>、<code>uan</code>、<code>uang</code>、<code>ui</code>、<code>uo</code></td></tr><tr><td><code>zh</code></td><td>Q键、F键（<a href="../advance-in-xkjd/alt-code.md">飞键</a>）</td><td><code>ai</code>、<code>ao</code>、<code>e</code></td></tr></tbody></table>

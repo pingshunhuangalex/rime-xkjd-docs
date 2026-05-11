@@ -62,13 +62,7 @@ description: （快捷）符号编码方案
 
 键道可以通过输入`o`加上数字的音码部分来快速输入带圈符号。下表对这些带圈符号进行了罗列：
 
-| 带圈符号 | 键道编码  | 带圈符号 | 键道编码  |
-| ---- | ----- | ---- | ----- |
-| ①    | `oyk` | ⑥    | `olq` |
-| ②    | `oxj` | ⑦    | `oqk` |
-| ③    | `osf` | ⑧    | `obs` |
-| ④    | `osk` | ⑨    | `ojq` |
-| ⑤    | `owj` | ⑩    | `oek` |
+<table><thead><tr><th width="150">带圈符号</th><th width="150">键道编码</th><th width="150">带圈符号</th><th width="150">键道编码</th></tr></thead><tbody><tr><td>①</td><td><code>oyk</code></td><td>⑥</td><td><code>olq</code></td></tr><tr><td>②</td><td><code>oxj</code></td><td>⑦</td><td><code>oqk</code></td></tr><tr><td>③</td><td><code>osf</code></td><td>⑧</td><td><code>obs</code></td></tr><tr><td>④</td><td><code>osk</code></td><td>⑨</td><td><code>ojq</code></td></tr><tr><td>⑤</td><td><code>owj</code></td><td>⑩</td><td><code>oek</code></td></tr></tbody></table>
 
 ## 其它符号
 

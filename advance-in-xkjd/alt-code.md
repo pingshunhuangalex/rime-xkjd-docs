@@ -14,12 +14,7 @@ description: 左右互击，酣畅淋漓
 | `zh`   | F键、Q键 | `ai`、`ao`、`e`              |
 | `uang` | M键、X键 | `ch`、`g`、`h`、`k`、`sh`、`zh` |
 
-|   jz / wz   |  fho / qho  |         emv / exv         |
-| :---------: | :---------: | :-----------------------: |
-|      超      |      宅      |             爽             |
-|             |             |                           |
-| jzxx / wzxx | bzgm / bzgx | fmfe / fmqe / fxfe / fxqe |
-|      朝向     |      曝光     |             装着            |
+<table data-header-hidden><thead><tr><th width="150" align="center"></th><th width="150" align="center"></th><th width="150" align="center"></th></tr></thead><tbody><tr><td align="center">jz / wz</td><td align="center">fho / qho</td><td align="center">emv / exv</td></tr><tr><td align="center">超</td><td align="center">宅</td><td align="center">爽</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">jzxx / wzxx</td><td align="center">bzgm / bzgx</td><td align="center">fmfe / fmqe / fxfe / fxqe</td></tr><tr><td align="center">朝向</td><td align="center">曝光</td><td align="center">装着</td></tr></tbody></table>
 
 {% hint style="warning" %}
 由于飞键使一些字词产生了多个编码，键道词库中有不少字词有飞键编码缺失的情况。还有一些字词因为多音字的关系也存在着一些编码错误，推荐用户在使用过程中对词库进行审核与修订

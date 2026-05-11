@@ -11,11 +11,11 @@ description: 下载安装 + 恢复用户配置与主题预览
 {% hint style="warning" %}
 一般情况下，键道安装包中的脚本会自动下载最新版本的Rime
 
-如果碰到脚本中的下载链接过期导致程序报错，用户可在执行键道安装程序前先自行前往[Rime官方仓库](https://github.com/rime/weasel/releases/latest)下载安装Rime**（须安装在默认路径下）**
+如果碰到脚本中的下载链接过期导致程序报错，用户可在执行键道安装程序前先自行前往[Rime官方仓库](https://github.com/rime/weasel/releases/latest)下载安装Rim&#x65;**（须安装在默认路径下）**
 {% endhint %}
 
-1. 前往[键道官方仓库](https://github.com/xkinput/Rime\_JD)下载键道输入方案
-2. 双击运行安装程序进行安装**（用户可自行选择解压路径，但应保证键道输入方案与Rime一同安装在默认路径下）**
+1. 前往[键道官方仓库](https://github.com/xkinput/Rime_JD)下载键道输入方案
+2. 双击运行安装程序进行安&#x88C5;**（用户可自行选择解压路径，但应保证键道输入方案与Rime一同安装在默认路径下）**
 3. 安装完成后如果Rime没有被自动添加到Windows输入法中，用户可前往`开始 → 设置 → 时间和语言 → 语言（中文）`进行添加
 4. 安装完成后如果键道没有被自动添加到Rime输入平台中，用户可右键单击屏幕右下角的Rime输入平台图标，并选择菜单中的`输入法设定`，然后勾选「键道6」即可
 
@@ -33,9 +33,9 @@ description: 下载安装 + 恢复用户配置与主题预览
 {% endtab %}
 
 {% tab title="macOS" %}
-1. 前往[Rime官方仓库](https://github.com/rime/squirrel/releases/latest)下载安装Rime**（须安装在默认路径下）**
+1. 前往[Rime官方仓库](https://github.com/rime/squirrel/releases/latest)下载安装Rim&#x65;**（须安装在默认路径下）**
 2. 安装完成后如果Rime没有被自动添加到macOS输入法中，用户可前往`苹果图标 → 系统偏好设置 → 键盘 → 输入法 → 添加（+）按钮 → 简体中文 → 鼠须管（Squirrel）`进行添加
-3.  下载[键道官方仓库](https://github.com/xkinput/Rime\_JD)**（用户可自行选择下载路径）**
+3.  下载[键道官方仓库](https://github.com/xkinput/Rime_JD)**（用户可自行选择下载路径）**
 
     ```git
     git clone https://github.com/xkinput/Rime_JD/
@@ -57,14 +57,14 @@ description: 下载安装 + 恢复用户配置与主题预览
 {% endtab %}
 
 {% tab title="Linux" %}
-待验证补充，请先移步[键道官方仓库](https://github.com/xkinput/Rime\_JD)
+待验证补充，请先移步[键道官方仓库](https://github.com/xkinput/Rime_JD)
 {% endtab %}
 
 {% tab title="Android" %}
-待验证补充，请先移步[键道官方仓库](https://github.com/xkinput/Rime\_JD)
+待验证补充，请先移步[键道官方仓库](https://github.com/xkinput/Rime_JD)
 {% endtab %}
 
 {% tab title="iOS" %}
-待验证补充，请先移步[键道官方仓库](https://github.com/xkinput/Rime\_JD)
+待验证补充，请先移步[键道官方仓库](https://github.com/xkinput/Rime_JD)
 {% endtab %}
 {% endtabs %}
